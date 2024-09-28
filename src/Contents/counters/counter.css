@@ -1,0 +1,15 @@
+.contofcounter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.counter{
+    color: white;
+    padding-top: 2px;
+    padding-bottom:2px;
+}
+.countertext{
+font-size: 20px;
+color: white;
+}

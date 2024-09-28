@@ -1,0 +1,16 @@
+.mySwiper3 .swiper {
+       
+  width: 100%;
+  height: 400px;
+}
+
+.mySwiper3 .swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+.mySwiper3 img{
+  width: 100%;
+  object-fit: cover;
+}

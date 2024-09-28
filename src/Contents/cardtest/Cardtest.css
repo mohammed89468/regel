@@ -1,0 +1,41 @@
+
+  .testimonial-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .testimonial-imgdiv{
+display: flex;
+position: absolute;
+left: 35%;
+right: auto;
+top: -50px;
+  }
+  .testimonial-content {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .testimonial-content h3 {
+    margin-top: 1rem;
+    font-size: 1.2em;
+  }
+  
+  .role {
+    margin-top: 1rem;
+    font-size: 0.9em;
+    color: #6c757d;
+  }
+  
+  .course {
+    font-size: 0.9em;
+    font-weight: bold;
+  }
+  
+  .testimonial {
+    font-style: italic;
+    color: #343a40;
+  }
+  
