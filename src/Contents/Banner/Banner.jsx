@@ -35,14 +35,8 @@ const MySwiper = () => {
     modules={[EffectCreative , Autoplay]}
     className="mySwiper3"
   >
-    <SwiperSlide><img src='banner.jpeg'/></SwiperSlide>
-    <SwiperSlide><img src='banner.jpeg'/></SwiperSlide>
-    <SwiperSlide><img src='banner.jpeg'/></SwiperSlide>
-    <SwiperSlide><img src='banner.jpeg'/></SwiperSlide>
-    <SwiperSlide><img src='banner.jpeg'/></SwiperSlide>
-    <SwiperSlide><img src='banner.jpeg'/></SwiperSlide>
-     <SwiperSlide><img src='banner.jpeg'/></SwiperSlide>
-   
+    <SwiperSlide><img src='/regel/banner.jpeg'/></SwiperSlide>
+    <SwiperSlide><img src='/regel/banner.jpeg'/></SwiperSlide>
   </Swiper>
   );
 };
